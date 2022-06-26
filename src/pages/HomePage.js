@@ -10,7 +10,7 @@ function HomePage() {
         marginTop: "45px",
       }}
     >
-      Welcome to our absoultly demo employee record page{" "}
+      Welcome to our absolutely demo employee record page
     </h1>
   );
 }
