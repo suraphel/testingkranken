@@ -11,6 +11,7 @@ function App() {
   return (
     <div className="App">
       <p> This is comin from the MSI laptop</p>
+      <p> This is comin from the MSI laptop</p>
       {/* <Switch>
         <Layout>
           <header className="App-header">
