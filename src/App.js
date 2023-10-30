@@ -1,16 +1,17 @@
 import "./App.css";
 //import MainNavigation from "./components/Layout/MainNavigation";
 // import UserInput from "./components/UserInput";
-import HomePage from "./pages/HomePage";
-import { Switch, Route } from "react-router-dom";
-import EmployeeList from "./pages/EmployeeList";
-import Layout from "./components/Layout/Layout";
-import UserInput from "./components/UserInput";
+// import HomePage from "./pages/HomePage";
+// import { Switch, Route } from "react-router-dom";
+// import EmployeeList from "./pages/EmployeeList";
+// import Layout from "./components/Layout/Layout";
+// import UserInput from "./components/UserInput";
 
 function App() {
   return (
     <div className="App">
-      <Switch>
+      <p> This is comin from the MSI laptop</p>
+      {/* <Switch>
         <Layout>
           <header className="App-header">
             <Route path="/">
@@ -24,7 +25,7 @@ function App() {
             </Route>
           </header>
         </Layout>
-      </Switch>
+      </Switch> */}
     </div>
   );
 }
