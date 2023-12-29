@@ -15,7 +15,11 @@ function App() {
       <p> This is comin from the MSI laptop</p>
       <p> This is comin from the MSI laptop on the 12/29 of 2023</p>
       <Account />
+      <Account />
+      <Account />
+      <Account />
       <h1> updated the git file directly!! on the 29/12/2023 </h1>
+
       {/* <Switch>
         <Layout>
           <header className="App-header">
