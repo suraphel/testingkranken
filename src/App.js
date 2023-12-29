@@ -19,8 +19,7 @@ function App() {
       <Account />
       <Account />
       <h1> updated the git file directly!! on the 29/12/2023 </h1>
-
-<p> Let us see the difference between the git fetch and git pull is </p> 
+      <p> Let us see the difference between the git fetch and git pull is </p> 
 
       {/* <Switch>
         <Layout>
